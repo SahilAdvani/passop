@@ -32,8 +32,6 @@ Users can save a website URL, username, and password, then view, edit, delete, o
 
 ## 📸 Preview
 
-Add a screenshot of the application here.
-
 
 ![Project Screenshot](public/screenshot.png)
 
