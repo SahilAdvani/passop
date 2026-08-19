@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.mycontainer{
+  @apply container px-50 py-5 mx-auto;
+}
