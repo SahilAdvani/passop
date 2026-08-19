@@ -4,7 +4,7 @@ PassOP is a simple password manager built with **React** that allows users to se
 
 Users can save a website URL, username, and password, then view, edit, delete, or copy their saved credentials whenever needed.
 
-> **Note:** PassOP is a learning project. Credentials are stored in the browser's `localStorage` and are not synchronized with a backend or cloud database. Since `localStorage` is not encrypted storage, this project should not be used for storing real or highly sensitive passwords.
+> **Note:** PassOP is a learning project. Credentials are stored in the browser's `localStorage` and are not synchronized with a backend or cloud database. Since `localStorage` is not encrypted storage, this project should not be used for storing highly sensitive passwords.
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ Users can save a website URL, username, and password, then view, edit, delete, o
 * 📱 Responsive user interface
 * 🎨 Styled using Tailwind CSS
 * ⚛️ Built with React
-* ⭐ Icons provided by React Icons
+* ⭐ Icons provided by Lordicons
 
 ## 🛠️ Tech Stack
 
